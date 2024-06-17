@@ -292,7 +292,7 @@ x10           -3.1431      0.301    -10.456      0.000      -3.734      -2.553
 ==============================================================================
 
 ```
-### Conclusiones
+### Conclusions
 
 Para este project, la consigna era aplicar un modelo de Regresión Lineal (además del que viene a continuación) a los datos pero entiendo quizás no era el modelo que más se ajustaba a mis datos y por eso los resultados no fueron ideales. Sin embargo, se logró mejorar el modelo lo suficiente como para tener resultados razonables. Los R2 dieron casi idénticos, 0.66 y 0.65. Son decentemente buenos y logramos quitar todos los p-valores que fueran mayores a 0.05. Que el p-valor: Prob (F-Statistic) haya dado extremadamente bajo (a efectos prácticos sería 0) significa que el modelo en general es significativo. Fue crucial tomar la decisión de cambiar de variable target y hacer un modelo PCA para poder obtener los resultados finales.
 
